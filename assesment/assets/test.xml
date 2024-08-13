@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.45">
-<file name="C:\Automation Projects\FlipkartSearch\hiragunita1234-ME_QA_XFLIPKART_SEARCH\src\test\java\demo\TestCases.java">
+<file name="C:\Users\Vishal Kumar\Downloads\hiragunita1234-ME_QA_XFLIPKART_SEARCH\src\test\java\demo\TestCases.java">
 <error line="32" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
 <error line="34" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
 <error line="36" severity="error" message="USED_THREAD_SLEEP" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
@@ -77,7 +77,7 @@
 <error line="233" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
 <error line="234" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
 </file>
-<file name="C:\Automation Projects\FlipkartSearch\hiragunita1234-ME_QA_XFLIPKART_SEARCH\src\test\java\demo\wrappers\Wrappers.java">
+<file name="C:\Users\Vishal Kumar\Downloads\hiragunita1234-ME_QA_XFLIPKART_SEARCH\src\test\java\demo\wrappers\Wrappers.java">
 <error line="22" severity="error" message="USED_WAIT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
 <error line="34" severity="error" message="USED_THREAD_SLEEP" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
 </file>
